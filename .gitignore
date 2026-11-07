@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+firmware/WallColorCam/config.h
+pc/captures/
+pc/probe.log
+case/.venv/
